@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestinyGstackSplitter", "DestinyGstackSplitter.csproj", "{6E086C4A-430E-A621-D76C-4D6467B40BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E086C4A-430E-A621-D76C-4D6467B40BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E086C4A-430E-A621-D76C-4D6467B40BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E086C4A-430E-A621-D76C-4D6467B40BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E086C4A-430E-A621-D76C-4D6467B40BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6363AF3-B822-4DF0-A517-3C5C2042666E}
+	EndGlobalSection
+EndGlobal
